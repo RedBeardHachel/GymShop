@@ -1,2 +1,2 @@
 # GymShop
-Buy whatever you want mate
+# Here is the GymShop application!!! This application is intended for people who want to buy food products. It helps users find and purchase products from vending machines located in fitness centers, using a Google Maps feature that shows the nearest locations in the user's area. The app allows users to view a list of products, add specific quantities of items to their shopping cart, view the cart as a list, and even update or delete items from the cart.
